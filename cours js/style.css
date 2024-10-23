@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+    margin: 15px;
+}
+p {
+    border: 4px;
+    
+
+}
+button {
+    width: 150px;
+    color: blueviolet;
+    background-color: cadetblue;
+}
+img{
+    width: 300px;
+}
